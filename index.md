@@ -7,25 +7,23 @@ A senior data scientist with good problem solving muslce
 
 ----
 
+## Summary
+
+Highly skilled and experienced data scientist with a strong background in machine learning and data analysis. Proficient in Python, R, and SQL, with a proven track record of delivering data-driven insights and solutions for various industries. Seeking a challenging and rewarding position as a senior data scientist.
+
 ## Work Experience
 
 ### ShenZhen Institute of Computing Science
 ->_ShenZhen, China_
 
-**Machine Learning group Lead**
-->_Feb 2022 to Present_
 
-- Increased engineering staff's operating efficiency by providing structure, operating procedures, engineering tools, guidelines, and handbooks.
-- Contributed to company-wide engineering initiatives
-- Supported the engineering and product teams to achieve a high level of technical quality, reliability, and ease-of-use.
-
-**Data Scientist**
+**Senior Data Scientist**
 ->_Feb 2021 to Present_
 
-- Increased engineering staff's operating efficiency by providing structure, operating procedures, engineering tools, guidelines, and handbooks.
-- Contributed to company-wide engineering initiatives
-- Supported the engineering and product teams to achieve a high level of technical quality, reliability, and ease-of-use.
-
+- Led the development and implementation of machine learning models and solutions for various projects across different industries
+- Conducted data analyses and provided insights and recommendations based on the results
+- Collaborated with cross-functional teams to design and implement end-to-end solutions for various projects
+- Assisted in the development of data pipelines and infrastructure to support data-driven decision making
 
 
 ### Candle Tech Limited
@@ -41,29 +39,36 @@ A senior data scientist with good problem solving muslce
 ### Midu tech Limited
 ->_ShenZhen, China_
 
-**Data Analyst**
-->_June 2016 to August 2016_
+**Data Scientist**
+->_Apr 2018 to May 2019_
 
-- Worked on Bloomberg's platform to enhance the user experience
-- Proactively participated in the team's weekly meetings and conducted reports on the project's progress
+- Worked on various projects related to machine learning and data analysis
+- Developed and implemented machine learning models using Python, R, and other tools and libraries
+- Conducted data analyses and provided insights and recommendations based on the results
+- Collaborated with cross-functional teams to design and implement end-to-end solutions for various projects
 
 ---
 
-## Skills
+## Technical Skills
 
-#### Technical: 
 `Python ` 
 
 `C++ ` 
 
 `Solidity`
 
-
 `Machine Learning ` 
 
 `Computer Vision ` 
 
 `NLP` 
+
+Technical Skills:
+- Proficient in Python, R, and SQL, with experience in various machine learning libraries and frameworks such as scikit-learn, TensorFlow, and Keras
+- Strong understanding of machine learning algorithms and techniques, including supervised and unsupervised learning, feature engineering, and model selection and optimization
+- Experience with data visualization tools such as Matplotlib, Seaborn, and Tableau
+- Experience with big data technologies such as Hadoop, Spark, and NoSQL databases
+- Proficient in data preprocessing, cleaning, and exploration techniques
 
 ---
 
@@ -72,7 +77,7 @@ A senior data scientist with good problem solving muslce
 ### ShenZhen University
 ->_2014-2016_
 
-**Bachelor of Mathmatic**,  _ShenZhen, China_
+**Bachelor of Mathematics**,  _ShenZhen, China_
 
 
 
