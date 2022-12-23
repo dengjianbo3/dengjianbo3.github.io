@@ -52,10 +52,9 @@ Highly skilled and experienced data scientist with a strong background in machin
 
 ## Technical Skills
 
-- Proficient in Python, R, and SQL, with experience in various machine learning libraries and frameworks such as scikit-learn, TensorFlow, and Keras
+- Proficient in Python with experience in various machine learning libraries and frameworks such as scikit-learn, TensorFlow, and Keras
 - Strong understanding of machine learning algorithms and techniques, including supervised and unsupervised learning, feature engineering, and model selection and optimization
 - Experience with data visualization tools such as Matplotlib, Seaborn, and Tableau
-- Experience with big data technologies such as Hadoop, Spark, and NoSQL databases
 - Proficient in data preprocessing, cleaning, and exploration techniques
 
 ## Programming Language
