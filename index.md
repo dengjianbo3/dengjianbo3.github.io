@@ -57,7 +57,7 @@ Highly skilled and experienced data scientist with a strong background in machin
 - Experience with data visualization tools such as Matplotlib, Seaborn, and Tableau
 - Proficient in data preprocessing, cleaning, and exploration techniques
 
-## Programming Language
+## Programming Languages
 `Python ` 
 
 `C++ ` 
