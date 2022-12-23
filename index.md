@@ -26,7 +26,7 @@ Highly skilled and experienced data scientist with a strong background in machin
 - Assisted in the development of data pipelines and infrastructure to support data-driven decision making
 
 
-### Candle Tech Limited
+### Candle Technology Co., Ltd
 ->_ShenZhen, China_
 
 **Autonomous Vechicle Computer Vision Enginner**
@@ -37,7 +37,7 @@ Highly skilled and experienced data scientist with a strong background in machin
 - Conducted data analyses and provided insights and recommendations based on the results
 - Collaborated with cross-functional teams to design and implement end-to-end solutions for various projects
 
-### Midu tech Limited
+### Midu Technology Co., Ltd
 ->_ShenZhen, China_
 
 **Data Scientist**
