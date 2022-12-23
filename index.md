@@ -58,7 +58,7 @@ Highly skilled and experienced data scientist with a strong background in machin
 - Experience with big data technologies such as Hadoop, Spark, and NoSQL databases
 - Proficient in data preprocessing, cleaning, and exploration techniques
 
-## Progamming Language
+## Programming Language
 `Python ` 
 
 `C++ ` 
