@@ -32,9 +32,10 @@ Highly skilled and experienced data scientist with a strong background in machin
 **Autonomous Vechicle Computer Vision Enginner**
 -> _September 2016 to March 2018_
 
-- Responsible for developing, maintaining 
-- Collaborated with technical and business staff in design, development, testing and implementation
-- Set up, managed and monitored systems to ensure business continuity
+- Worked on various projects related to computer vision and image processing
+- Developed and implemented computer vision solutions using Python, C++, and other tools and libraries
+- Conducted data analyses and provided insights and recommendations based on the results
+- Collaborated with cross-functional teams to design and implement end-to-end solutions for various projects
 
 ### Midu tech Limited
 ->_ShenZhen, China_
@@ -51,24 +52,18 @@ Highly skilled and experienced data scientist with a strong background in machin
 
 ## Technical Skills
 
-`Python ` 
-
-`C++ ` 
-
-`Solidity`
-
-`Machine Learning ` 
-
-`Computer Vision ` 
-
-`NLP` 
-
-Technical Skills:
 - Proficient in Python, R, and SQL, with experience in various machine learning libraries and frameworks such as scikit-learn, TensorFlow, and Keras
 - Strong understanding of machine learning algorithms and techniques, including supervised and unsupervised learning, feature engineering, and model selection and optimization
 - Experience with data visualization tools such as Matplotlib, Seaborn, and Tableau
 - Experience with big data technologies such as Hadoop, Spark, and NoSQL databases
 - Proficient in data preprocessing, cleaning, and exploration techniques
+
+## Progamming Language
+`Python ` 
+
+`C++ ` 
+
+`Solidity`
 
 ---
 
