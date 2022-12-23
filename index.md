@@ -9,11 +9,11 @@ A senior data scientist with good problem solving muslce
 
 ## Summary
 
-Highly skilled and experienced data scientist with a strong background in machine learning and data analysis. Proficient in Python, R, and SQL, with a proven track record of delivering data-driven insights and solutions for various industries. Seeking a challenging and rewarding position as a senior data scientist.
+Highly skilled and experienced data scientist with a strong background in machine learning and data analysis. Proficient in Python, with a proven track record of delivering data-driven insights and solutions for various industries. Seeking a challenging and rewarding position as a senior data scientist.
 
 ## Work Experience
 
-### ShenZhen Institute of Computing Science
+### [ShenZhen Institute of Computing Science](https://en.sics.ac.cn/)
 ->_ShenZhen, China_
 
 
@@ -26,7 +26,7 @@ Highly skilled and experienced data scientist with a strong background in machin
 - Assisted in the development of data pipelines and infrastructure to support data-driven decision making
 
 
-### Candle Technology Co., Ltd
+### [Candle Technology Co., Ltd](https://www.ctirobot.com/en/shouye)
 ->_ShenZhen, China_
 
 **Autonomous Vechicle Computer Vision Enginner**
@@ -44,7 +44,7 @@ Highly skilled and experienced data scientist with a strong background in machin
 ->_Apr 2018 to May 2019_
 
 - Worked on various projects related to machine learning and data analysis
-- Developed and implemented machine learning models using Python, R, and other tools and libraries
+- Developed and implemented machine learning models using Python and other tools and libraries
 - Conducted data analyses and provided insights and recommendations based on the results
 - Collaborated with cross-functional teams to design and implement end-to-end solutions for various projects
 
