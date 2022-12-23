@@ -30,7 +30,7 @@ Highly skilled and experienced data scientist with a strong background in machin
 ->_ShenZhen, China_
 
 **Autonomous Vechicle Computer Vision Enginner**
--> _September 2016 to March 2018_
+-> _Nov 2019 to Jan 2021_
 
 - Worked on various projects related to computer vision and image processing
 - Developed and implemented computer vision solutions using Python, C++, and other tools and libraries
@@ -41,7 +41,7 @@ Highly skilled and experienced data scientist with a strong background in machin
 ->_ShenZhen, China_
 
 **Data Scientist**
-->_Apr 2018 to May 2019_
+->_Apr 2018 to Oct 2019_
 
 - Worked on various projects related to machine learning and data analysis
 - Developed and implemented machine learning models using Python and other tools and libraries
