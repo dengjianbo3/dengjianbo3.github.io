@@ -1,39 +1,80 @@
-## 邓剑波的简历
+# **Deng Jianbo**
+A senior data scientist with good problem solving muslce 
 
-## 个人介绍
+### Email: **<dengjianbo@live.cn>** 
+### Phone: **+86-18666221293** 
+### Telegram: **+86-18666221293** 
 
-## 项目经验
+----
 
-## 
+## Work Experience
 
-### Markdown
+### ShenZhen Institute of Computing Science
+->_ShenZhen, China_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Machine Learning group Lead**
+->_Feb 2022 to Present_
 
-```markdown
-Syntax highlighted code block
+- Increased engineering staff's operating efficiency by providing structure, operating procedures, engineering tools, guidelines, and handbooks.
+- Contributed to company-wide engineering initiatives
+- Supported the engineering and product teams to achieve a high level of technical quality, reliability, and ease-of-use.
 
-# Header 1
-## Header 2
-### Header 3
+**Data Scientist**
+->_Feb 2021 to Present_
 
-- Bulleted
-- List
+- Increased engineering staff's operating efficiency by providing structure, operating procedures, engineering tools, guidelines, and handbooks.
+- Contributed to company-wide engineering initiatives
+- Supported the engineering and product teams to achieve a high level of technical quality, reliability, and ease-of-use.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Candle Tech Limited
+->_ShenZhen, China_
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Autonomous Vechicle Computer Vision Enginner**
+-> _September 2016 to March 2018_
 
-### Jekyll Themes
+- Responsible for developing, maintaining 
+- Collaborated with technical and business staff in design, development, testing and implementation
+- Set up, managed and monitored systems to ensure business continuity
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dengjianbo3/dengjianbo3.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Midu tech Limited
+->_ShenZhen, China_
 
-### Support or Contact
+**Data Analyst**
+->_June 2016 to August 2016_
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Worked on Bloomberg's platform to enhance the user experience
+- Proactively participated in the team's weekly meetings and conducted reports on the project's progress
+
+---
+
+## Skills
+
+#### Technical: 
+`Python ` 
+
+`C++ ` 
+
+`Solidity`
+
+
+`Machine Learning ` 
+
+`Computer Vision ` 
+
+`NLP` 
+
+---
+
+## Education
+
+### ShenZhen University
+->_2014-2016_
+
+**Bachelor of Mathmatic**,  _ShenZhen, China_
+
+
+
+
+
