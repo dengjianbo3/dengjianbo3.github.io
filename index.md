@@ -37,7 +37,7 @@ Highly skilled and experienced data scientist with a strong background in machin
 - Conducted data analyses and provided insights and recommendations based on the results
 - Collaborated with cross-functional teams to design and implement end-to-end solutions for various projects
 
-### Midu Technology Co., Ltd
+### [Midu Technology Co., Ltd](https://www.midu.com/)
 ->_ShenZhen, China_
 
 **Data Scientist**
