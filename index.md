@@ -69,7 +69,7 @@ Highly skilled and experienced data scientist with a strong background in machin
 ## Education
 
 ### ShenZhen University
-->_2014-2016_
+->_Sep 2007 to July 2011_
 
 **Bachelor of Mathematics**,  _ShenZhen, China_
 
