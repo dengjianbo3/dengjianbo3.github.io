@@ -33,9 +33,9 @@ Highly skilled and experienced data scientist with a strong background in machin
 -> _Nov 2019 to Jan 2021_
 
 - Worked on various projects related to computer vision and image processing
-- Developed and implemented computer vision solutions using Python, C++, and other tools and libraries
-- Conducted data analyses and provided insights and recommendations based on the results
-- Collaborated with cross-functional teams to design and implement end-to-end solutions for various projects
+- Developed and implemented computer vision solutions using Python, C++ and other tools and libraries
+- Collect visual scene data and organize data annotation
+- Collaborate with other robot teams to provide visual information to localization, route planing, and other modules
 
 ### [Midu Technology Co., Ltd](https://www.midu.com/)
 ->_ShenZhen, China_
@@ -43,10 +43,10 @@ Highly skilled and experienced data scientist with a strong background in machin
 **Data Scientist**
 ->_Apr 2018 to Oct 2019_
 
-- Worked on various projects related to machine learning and data analysis
-- Developed and implemented machine learning models using Python and other tools and libraries
-- Conducted data analyses and provided insights and recommendations based on the results
-- Collaborated with cross-functional teams to design and implement end-to-end solutions for various projects
+- Analyzed and interpreted large datasets to identify trends and patterns, and presented findings to cross-functional teams
+- Assisted in the development of a machine learning model to fullfil the goal of the company
+- Conducted data cleaning and preprocessing, and performed statistical analysis to identify trends and patterns in blockchain data
+- Created visualizations and presentations to communicate findings to the team
 
 ---
 
@@ -72,8 +72,3 @@ Highly skilled and experienced data scientist with a strong background in machin
 ->_Sep 2007 to July 2011_
 
 **Bachelor of Mathematics**,  _ShenZhen, China_
-
-
-
-
-
