@@ -1,5 +1,4 @@
 # Jianbo Deng
-<img src="picture.jpg" alt="Jianbo Deng" style="float: right; width: 10%; height: 10%; margin-left: 20px; margin-bottom: 20px;" />
 
 **Email**: dengjianbo@live.cn  
 **Telephone**: +86-18666221293  
