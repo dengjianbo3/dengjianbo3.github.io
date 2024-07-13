@@ -6,7 +6,7 @@
 ---
 
 ## Personal Profile
-With 3 years of NLP experience and 6 years of algorithm experience, I have accumulated a profound technical background in data and artificial intelligence. I possess excellent communication and team coordination skills, effectively translating technical concepts into business value and maintaining close contact with clients and team members. During my tenure at Shenzhen Institute of Computing Science, I successfully interfaced with several large companies, applying complex technical solutions to practical business scenarios. Additionally, I have extensive experience in the application and architecture of generative large language models, demonstrating the ability to design and implement advanced AI solutions. I am eager to continue leveraging my technical expertise and coordination abilities at Microsoft, driving the implementation and deployment of Data and AI solutions to help the company and clients achieve higher business goals.
+With 3 years of NLP experience and 6 years of algorithm experience, I have accumulated a profound technical background in data and artificial intelligence. I possess excellent communication and team coordination skills, effectively translating technical concepts into business value and maintaining close contact with clients and team members. During my tenure at Shenzhen Institute of Computing Science, I successfully interfaced with several large companies, applying complex technical solutions to practical business scenarios. Additionally, I have extensive experience in the application and architecture of generative large language models, demonstrating the ability to design and implement advanced AI solutions.
 
 ---
 
